@@ -1,0 +1,134 @@
+company;listingdate;volume100d;sector;industry
+AAK;2005-09-29;468706,875;Food and Beverage;Food Processing
+ABB;1999-06-22;1411425,625;Industrials;Industrial Machinery
+Addtech;2001-09-03;431676,8438;Industrials;Industrial Components
+Alfa Laval;2002-05-17;1035038,25;Industrials;Industrial Components
+Assa Abloy;1994-11-08;2023678,875;Industrials;Construction Supplies
+AstraZeneca;1999-04-06;501995,8438;Health Care;Pharmaceuticals
+Atlas Copco A;1973-01-01;1111550,5;Industrials;Industrial Machinery
+Atrium Ljungberg;1994-07-14;179766,4063;Financials;Real Estate
+Autoliv;1997-05-02;281859,4688;Consumer Durables;Auto & Equipment
+Avanza;1992-11-12;362176,4063;Financials;Retail & Mortgage Banks
+Axfood;1997-06-27;395442,25;Food and Beverage;Food Retail
+Beijer Ref;1985-12-03;205276,9063;Industrials;Installation
+Betsson;1996-03-26;665883,5625;Consumer Durables;Gambling & Casinos
+BillerudKorsnäs;2001-11-20;610890,625;Materials;Forest & Wood Products
+Boliden;2001-12-05;1438273,625;Materials;Mining - Steel & Aluminum
+Castellum;1997-05-23;657796,5625;Financials;Real Estate
+Electrolux B;1985-01-01;1247480,375;Consumer Durables;Consumer Electronics
+Elekta;1994-03-01;1535047,875;Health Care;Medical Equipment
+Ericsson B;1976-01-01;7240196,5;Technology;Communications
+Fabege;1998-09-24;1029069,5;Financials;Real Estate
+Fastpartner;1994-02-14;51308,67188;Financials;Real Estate
+Fast Balder;1999-10-12;386566,6563;Financials;Real Estate
+Fenix Outdoor;1983-01-01;3177,350098;Consumer Durables;Clothing & Footwear
+Getinge;1995-06-08;1074312,375;Health Care;Medical Supplies
+ICA Gruppen;2005-06-23;285903,8438;Food and Beverage;Food Retail
+Hennes & Mauritz;1974-06-17;4813372;Consumer Durables;Clothing & Footwear
+Hexagon;1993-01-01;511668,4063;Industrials;Measuring & Analysis
+Hexpol;2008-06-09;747639,625;Materials;Chemicals
+Holmen B;1993-01-01;246946,3125;Materials;Forest & Wood Products
+Hufvudstaden A;1985-01-01;759788,4375;Financials;Real Estate
+Husqvarna B;2006-06-13;1932439;Consumer Durables;Consumer Electronics
+Industrivärden C;1981-01-01;390956,25;Financials;Holding Companies
+Indutrade;2005-10-05;175798,7813;Industrials;Industrial Components
+Intrum;2002-06-07;456290,7813;Financials;Consumer Lending
+Investor B;1990-01-01;854433,1875;Financials;Holding Companies
+JM;1981-11-25;268471,3125;Industrials;Homebuilding
+Kinnevik B;1997-09-22;761171,5625;Financials;Holding Companies
+Klövern A;1997-06-19;39296,17969;Financials;Real Estate
+Kungsleden;1999-04-14;543247;Financials;Real Estate
+Latour;1987-01-01;417637,25;Financials;Holding Companies
+Loomis;2008-12-09;413331,8438;Industrials;Security
+Lundbergföretagen;1997-06-09;138666,375;Financials;Holding Companies
+Lundin Mining;2003-12-12;749168,75;Materials;Mining
+Lundin Energy;2001-09-06;919609,6875;Energy;Oil & Gas -Exploration
+Mycronic;2000-03-09;181726,4219;Technology;Semiconductors
+Millicom;2004-03-30;740318,875;Telecom;Telecommunications
+MTG B;1999-05-03;237918,7031;Consumer Durables;Broadcasting & Publishing
+NCC B;1987-05-11;226107;Industrials;Construction & Infrastructure
+NIBE;1997-06-16;653042,8125;Industrials;Installation
+Nobia;2002-06-19;423539,4375;Consumer Durables;Home Furnishings
+Nolato;1984-05-01;54504,48047;Materials;Chemicals
+Nordea Bank;1997-12-15;7857396,5;Financials;Banks
+Peab;1987-06-15;410078,3125;Industrials;Construction & Infrastructure
+Ratos B;1983-01-01;799847;Financials;Holding Companies
+Saab;1998-06-18;471031,9688;Industrials;Military & Defense
+Sagax A;1999-04-06;3248,76001;Financials;Real Estate
+Sandvik;1989-01-01;2624841,5;Industrials;Industrial Machinery
+SCA B;1987-01-01;1765903,125;Materials;Forest & Wood Products
+SEB A;1975-01-01;4364754;Financials;Banks
+Securitas;1991-07-09;1292955,25;Industrials;Security
+Handelsbanken A;1987-01-01;5293509;Financials;Banks
+Skanska;1965-01-01;1079145,125;Industrials;Construction & Infrastructure
+SKF B;1982-01-01;1549650,25;Industrials;Industrial Components
+SSAB A;1989-07-03;4616178,5;Materials;Mining - Steel & Aluminum
+Stora Enso R;1998-12-29;511144,375;Materials;Forest & Wood Products
+Sweco B;1998-08-24;415468,375;Industrials;Business Consultants
+Swedbank;1995-06-09;3557981,5;Financials;Banks
+Swedish Match;1996-01-01;484029,6563;Food and Beverage;Tobacco
+Swedish Orphan Biovitrum;2006-09-15;958148,5625;Health Care;Pharmaceuticals
+Tele2 B;1996-05-14;2666959,5;Telecom;Telecommunications
+Telia Company;2000-06-13;11484943;Telecom;Telecommunications
+TietoEVRY;1999-07-09;9939,280273;Technology;IT Consulting
+Trelleborg;1987-01-01;800736,625;Materials;Chemicals
+Kindred;2006-10-30;1502993,75;Consumer Durables;Gambling & Casinos
+Vitrolife;2001-06-26;99762,32813;Health Care;Medical Equipment
+Volvo B;1982-01-01;4372945;Industrials;Industrial Machinery
+Wallenstam;1984-06-01;225256,5625;Financials;Real Estate
+Wihlborgs;2005-05-23;335348,3125;Financials;Real Estate
+ÅF;1986-01-27;175590,25;Industrials;Business Consultants
+Thule;2014-11-26;270017,0938;Consumer Durables;Auto & Equipment
+Samhällsbyggnadsbolag B;2014-11-12;6021785;Financials;Real Estate
+Lifco;2014-11-21;97744,47656;Financials;Holding Companies
+Ahlstrom-Munksjö;2014-12-08;11261,91016;Materials;Forest & Wood Products
+Fastpartner Pref;2013-06-18;9606,980469;Financials;Real Estate
+Klövern Pref;2012-01-30;14881,2002;Financials;Real Estate
+Sagax Pref;2006-02-13;12970,34961;Financials;Real Estate
+Pandox;2015-06-18;661178,5;Financials;Real Estate
+Evolution Gaming;2015-03-20;1047857,438;Consumer Durables;Gambling & Casinos
+Bravida;2015-10-15;228965,6406;Industrials;Installation
+Dometic;2015-11-25;879304,8125;Consumer Durables;Auto & Equipment
+Attendo;2015-11-30;342799,8125;Health Care;Healthcare Facilities
+Resurs Holding;2016-04-29;607817,375;Financials;Consumer Lending
+Bonava B;2016-06-07;457577,4375;Financials;Real Estate
+Medicover;2017-05-23;80957,64063;Health Care;Healthcare Facilities
+Essity B;2017-06-15;1425891,5;Food and Beverage;Personal Products
+Arjo;2017-12-12;458086,2813;Health Care;Medical Supplies
+Atlas Copco B;1973-01-01;475296,3125;Industrials;Industrial Machinery
+Bonava A;2016-06-06;2051,659912;Financials;Real Estate
+Electrolux A;1985-01-01;362,3999939;Consumer Durables;Consumer Electronics
+Ericsson A;1985-01-01;30514,80078;Technology;Communications
+Essity A;2017-06-15;23477,40039;Food and Beverage;Personal Products
+Handelsbanken B;1987-01-01;147211,1406;Financials;Banks
+Holmen A;1993-01-01;1927,819946;Materials;Forest & Wood Products
+Husqvarna A;2006-06-13;21301,41016;Consumer Durables;Consumer Electronics
+Industrivärden A;1981-01-01;215562,25;Financials;Holding Companies
+Investor A;1990-01-01;112590,8438;Financials;Holding Companies
+Kinnevik A;1997-09-22;16577,33008;Financials;Holding Companies
+Klövern B;2014-12-09;2158857,25;Financials;Real Estate
+MTG A;1999-05-03;465,1300049;Consumer Durables;Broadcasting & Publishing
+NCC A;1987-05-11;2675,5;Industrials;Construction & Infrastructure
+Ratos A;1983-01-01;4456,27002;Financials;Holding Companies
+Sagax B;2013-04-08;219051,3281;Financials;Real Estate
+Sagax D;2016-11-07;200888,2813;Financials;Real Estate
+SCA A;1987-01-01;11666,5498;Materials;Forest & Wood Products
+SEB C;1975-01-01;59255,28906;Financials;Banks
+SKF A;1982-01-01;30278,21094;Industrials;Industrial Components
+SSAB B;1989-07-03;3446860,5;Materials;Mining - Steel & Aluminum
+Stora Enso A;1997-01-02;13966,51953;Materials;Forest & Wood Products
+Sweco A;1998-08-24;2118,939941;Industrials;Business Consultants
+Tele2 A;1996-05-14;2005,920044;Telecom;Telecommunications
+Volvo A;1982-01-01;275950,375;Industrials;Industrial Machinery
+Arion Banki;2018-06-15;474170,375;Financials;Banks
+Epiroc A;2018-06-18;1409318,625;Industrials;Industrial Machinery
+Epiroc B;2018-06-18;446282,5;Industrials;Industrial Machinery
+Veoneer;2018-07-02;504653,875;Consumer Durables;Auto & Equipment
+Nyfosa;2018-11-23;412119,1875;Financials;Real Estate
+Samhällsbyggnadsbolag D;2018-12-14;583025,0625;Financials;Real Estate
+Nordic Entertainment B;2019-03-28;113079,1016;Consumer Durables;Broadcasting & Publishing
+Nordic Entertainment A;2019-03-28;334,3099976;Consumer Durables;Broadcasting & Publishing
+Traton;2019-06-28;85155,92188;Industrials;Industrial Machinery
+EQT;2019-09-24;1144261,5;Financials;Holding Companies
+Fastpartner D;2019-12-13;14410,61035;Financials;Real Estate
+Electrolux Professional B;2020-03-23;735571,1875;Consumer Durables;Consumer Electronics
