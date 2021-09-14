@@ -1,0 +1,54 @@
+Sub Calc()
+'
+' Calc Macro
+'
+
+'
+' Skapar två nya kolumner
+
+    Range("C:C").Insert
+    Range("C4").EntireColumn.Insert
+    Range("C1") = "Start of Period"
+    Range("D1") = "End of Period"
+'
+
+    Range(Range("B2"), Range("B2").End(xlDown)).Select
+    Selection.TextToColumns Destination:=Range("C2"), DataType:=xlDelimited, _
+        TextQualifier:=xlDoubleQuote, ConsecutiveDelimiter:=True, Tab:=False, _
+        Semicolon:=False, Comma:=False, Space:=True, Other:=False, OtherChar _
+        :="-", FieldInfo:=Array(Array(1, 5), Array(2, 9), Array(3, 5)), _
+        TrailingMinusNumbers:=True
+    
+    ' Columns
+    Range("H:H").Insert
+    Range("H1") = "Number of Months for Period"
+    Range("I:I").Insert
+    Range("I1") = "Months left from today"
+    Range("J:J").Insert
+    Range("J1") = "Multiplier"
+    
+    ' Calculations
+    Range("H2").Select
+    ActiveCell.FormulaR1C1 = "=DATEDIF(RC[-5],RC[-4],""M"")+1"
+    With Sheets("Sheet1")
+        .Range("H2").AutoFill .Range("H2:H" & .Cells(.Rows.Count, "E").End(xlUp).Row)
+    End With
+    
+    Range("I2").Select
+    ActiveCell.FormulaR1C1 = "=DATEDIF(TODAY(),RC[-5],""M"")+1"
+    With Sheets("Sheet1")
+        .Range("I2").AutoFill .Range("I2:I" & .Cells(.Rows.Count, "E").End(xlUp).Row)
+    End With
+    
+    Range("J2").Select
+    ActiveCell.FormulaR1C1 = "=RC[-2]-RC[-1]"
+    With Sheets("Sheet1")
+        .Range("J2").AutoFill .Range("J2:J" & .Cells(.Rows.Count, "E").End(xlUp).Row)
+    End With
+    
+    Range("G2").Select
+    ActiveCell.FormulaR1C1 = "=RC[-2]-(RC[-1]*RC[6])"
+    With Sheets("Sheet1")
+        .Range("G2").AutoFill .Range("G2:G" & .Cells(.Rows.Count, "E").End(xlUp).Row)
+    End With
+End Sub
